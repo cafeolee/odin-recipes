@@ -1,3 +1,5 @@
 # odin-recipes
 
-Write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned).
+This repository is an exercise from the foundation path course from The Odin Project. 
+
+Here you will find some traditional recipes from Asturias, a region in the north of Spain. Enjoy!
